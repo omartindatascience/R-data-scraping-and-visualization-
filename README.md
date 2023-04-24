@@ -3,7 +3,7 @@ R data scraping and visualization example
 
 README
 
-This R code uses web scraping techniques to extract customer reviews for two products (SamsungQ80 and SonyX85J) from the Amazon website. It then performs sentiment analysis on the reviews using the sentimentr package and creates visualizations to explore the sentiment and rating trends over time.
+This sample R code uses web scraping techniques to extract customer reviews for two products (SamsungQ80 and SonyX85J) from the Amazon website. It then performs sentiment analysis on the reviews using the sentimentr package and creates visualizations to explore the sentiment and rating trends over time.
 
 Instructions:
 
