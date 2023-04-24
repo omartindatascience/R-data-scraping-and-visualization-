@@ -1,4 +1,4 @@
-# R-data-scraping-and-visualization-
+# R-data-scraping from amazon, sentiment analysis -and-visualization-
 R data scraping and visualization example
 
 README
